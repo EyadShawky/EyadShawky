@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eyad shawky</h1>
 <h3 align="center">Full Stack Developer at Aallie & DIGITISED | Former Front End Developer at Acute Business | 3+ Years in React.js and Laravel | Bachelor's in CSAI from MTI Univ</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/coding-animations--126663808259169690/"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"
 
 
-- 🔭 I’m currently working at **Aallie**
-
-- 🔭 I’m currently working at **DIGITISED**
+- 🔭 I’m currently working at **Aallie** | **DIGITISED**
 
 - 👨‍💻 All of my projects are available at [https://eyad-lake.vercel.app/](https://eyad-lake.vercel.app/)
 
