@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyad shawky</h1>
 <h3 align="center">Full Stack Developer with 3+ Years in React.js and Laravel
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"
+  
 - 🔭 I’m currently working at **Aallie** | **DIGITISED**
 - 👨‍💻 All of my projects are available at [https://eyad-lake.vercel.app/](https://eyad-lake.vercel.app/)
 - 💬 Ask me about **React.js , Netx.js , Laravel , SQL**
