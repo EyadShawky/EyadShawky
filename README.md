@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Eyad shawky</h1>
-<h3 align="center">Full Stack Developer at Aallie & DIGITISED | Former Front End Developer at Acute Business | 3+ Years in React.js and Laravel | Bachelor's in CSAI from MTI Univ</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"
+<h3 align="center">Full Stack Developer with 3+ Years in React.js and Laravel
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"
 
 
-- 🔭 I’m currently working at **Aallie** | **DIGITISED**
+🔭 I’m currently working at **Aallie** | **DIGITISED**
 
-- 👨‍💻 All of my projects are available at [https://eyad-lake.vercel.app/](https://eyad-lake.vercel.app/)
+👨‍💻 All of my projects are available at [https://eyad-lake.vercel.app/](https://eyad-lake.vercel.app/)
 
-- 💬 Ask me about **React.js , Netx.js , Laravel , SQL**
+💬 Ask me about **React.js , Netx.js , Laravel , SQL**
 
-- 📫 How to reach me **eyadshawky0@gmial.com**
+📫 How to reach me **eyadshawky0@gmial.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iVwhob07N3anOFMglJEaAJj-BwzyN4p6/view?usp=sharing](https://drive.google.com/file/d/1iVwhob07N3anOFMglJEaAJj-BwzyN4p6/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1iVwhob07N3anOFMglJEaAJj-BwzyN4p6/view?usp=sharing](https://drive.google.com/file/d/1iVwhob07N3anOFMglJEaAJj-BwzyN4p6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
