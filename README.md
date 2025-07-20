@@ -3,7 +3,7 @@
 - I’m currently working at Aallie | DIGITISED
 - All of my projects are available at https://eyad-lake.vercel.ap
 - Ask me about React.js , Netx.js , Laravel , SQL
-- How to reach me eyadshawky0@gmial.com
+- How to reach me eyadshawky0@gmail.com
 - Know about my experiences https://drive.google.com/file/d/1iVwhob07N3anOFMglJEaAJj-BwzyN4p6/view?usp=sharing<br>
 
 
