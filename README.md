@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-- I’m currently working at USYTech [Sidebench] | DIGITISED
 - All of my projects are available at https://eyad-lake.vercel.ap
 - Ask me about React.js , Netx.js , Expo , RoR , Laravel , SQL
 - How to reach me eyadshawky0@gmail.com
